@@ -1,0 +1,6 @@
+{
+  "name": "Free Call",
+  "description": "Free calling app with a 3 calls per day daily limit, dial pad, call logs, in-call screen, and bonus call rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
